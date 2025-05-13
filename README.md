@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thai Nguyen
+# Hi, I'm Thai Nguyen
 
 **Full-Stack Developer in Training | C++ Enthusiast | NBA Data Visualizer**
 
