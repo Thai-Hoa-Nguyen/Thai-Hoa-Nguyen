@@ -11,7 +11,7 @@
 
 I'm a second-year Computer Programming & Analysis student at Seneca Polytechnic, passionate about building impactful software with clean, scalable architecture. My interests lie at the intersection of full-stack development, data visualization, and algorithmic problem solving.
 
-I thrive on solving real-world problems—from visualizing NBA stats to building back-end systems—and enjoy applying both creative and technical approaches to development. Outside of coding, I bring discipline and teamwork skills gained from years as a professional youth basketball player and top-performing sales associate.
+I love solving real-world problems—from visualizing NBA stats to building back-end systems—and enjoy applying both creative and technical approaches to development. Outside of coding, I bring discipline and teamwork skills gained from years as a professional youth basketball player and top-performing sales associate.
 
 ---
 
