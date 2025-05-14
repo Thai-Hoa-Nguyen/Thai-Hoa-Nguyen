@@ -1,6 +1,6 @@
 # Hi, I'm Thai Nguyen
 
-**Full-Stack Developer in Training | C++ Enthusiast | NBA Data Visualizer**
+**Full-Stack Developer**
 
 📍 Toronto, Ontario, Canada  
 🔗 [LinkedIn](https://www.linkedin.com/in/thai-nguyen-080906359/) | [GitHub](https://github.com/Thai-Hoa-Nguyen)
