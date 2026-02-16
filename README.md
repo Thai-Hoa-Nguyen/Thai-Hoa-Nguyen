@@ -1,63 +1,36 @@
-# Hi, I'm Thai Nguyen
+# Hi, I am Thai Nguyen
 
-**Full-Stack Developer**
+Full Stack Developer and Software Developer Co op
 
-📍 Toronto, Ontario, Canada  
-🔗 [LinkedIn](https://www.linkedin.com/in/thai-nguyen-080906359/) | [GitHub](https://github.com/Thai-Hoa-Nguyen)
+Toronto, Ontario, Canada  
+LinkedIn: https://www.linkedin.com/in/thai-nguyen-080906359/  
+GitHub: https://github.com/Thai-Hoa-Nguyen
 
----
+## About Me
+Computer Programming and Analysis student at Seneca Polytechnic with hands on experience in full stack development and QA automation in a Government of Ontario environment. I focus on building reliable systems, improving test coverage, and writing clean code under real world constraints.
 
-## 🧠 About Me
+## Hackathon Experience
+- OPS Be a Data Hero Hackathon hosted by GovTechON – Won 2nd place in the data design category  
+- OPS Be a Data Hero Hackathon hosted by GovTechON – Outstanding Excellence performance award  
+- Participated in CRT Hack DEL 2.0 in 2026 – Project LockIntern
 
-I'm a second-year Computer Programming & Analysis student at Seneca Polytechnic, passionate about building impactful software with clean, scalable architecture. My interests lie at the intersection of full-stack development, data visualization, and algorithmic problem solving.
+## Professional Experience
+### Software Developer and Automation QA Engineer Co op  
+Ministry of Children, Community and Social Services  
+Toronto, Ontario  
+July 2025 to Present  
 
-I love solving real-world problems—from visualizing NBA stats to building back-end systems—and enjoy applying both creative and technical approaches to development. Outside of coding, I bring discipline and teamwork skills gained from years as a professional youth basketball player and top-performing sales associate.
+- Develop and enhance Power Apps features for multiple production systems used across Ontario.  
+- Design and execute end to end testing including manual, regression, and UAT.  
+- Build and maintain Selenium automation using Java to support repeatable regression testing.  
+- Manage defects and testing activities using Azure DevOps and collaborate with business analysts and developers during sprints.  
 
----
+### Sales Associate  
+Nike  
+Toronto, Ontario  
+May 2025 to August 2025  
 
-## 💻 Technical Skills
-
-- **Languages:** JavaScript, C++, Python, SQL, HTML, CSS  
-- **Frontend:** React, Bootstrap, Chart.js  
-- **Backend:** Node.js, Express, Flask  
-- **Databases:** MongoDB, Oracle SQL  
-- **Tools & Practices:** Git & GitHub, Power BI, Tableau, Linux/Unix, REST APIs, OOP, File I/O, Software Testing
-
----
-
-## 🚀 Featured Projects
-
-### 📊 [SwishScope](https://github.com/Thai-Hoa-Nguyen/SwishScope)
-An interactive NBA insights dashboard providing real-time player stats and team analytics.
-
-- Full-stack implementation using **Node.js**, **Flask**, and **Chart.js**
-- Dynamic filters and modals for comparing players and teams
-- Smart search feature for quick access to player or team data
-
-### 🍽️ [Restaurant Ordering & Billing System](https://github.com/Thai-Hoa-Nguyen/Order-System)
-A console-based food ordering and billing system built with C++ and object-oriented principles.
-
-- Modular architecture with polymorphic classes (`Billable`, `Food`, `Drink`)
-- Integrated file I/O for persistent menu and billing data
-- Memory-safe design using the Rule of Three
-
----
-
-## 🏅 Achievements
-
-- 🥇 3-Time Monthly MVP at Nike Flagship Store (Ho Chi Minh City), exceeding $10,000/month in sales  
-- 🏀 Represented Ho Chi Minh City in Vietnam’s national youth basketball league: 1 Gold, 2 Silver, 1 Bronze  
-- 🛠️ Led full-stack development and GitHub collaboration for a successful Hackathon project (Seneca 2025)
-
----
-
-## 📈 Currently Exploring
-
-- Advanced API and microservice design with Node.js  
-- Performance optimization in JavaScript and C++  
-- Full-stack integration patterns and deployment  
-- Unit testing and debugging best practices
-
----
-
-Thanks for stopping by! Feel free to explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/thai-nguyen-080906359/).
+- Delivered consistent customer service in a fast paced retail environment.  
+- Assisted customers with product selection through clear communication and active listening.  
+- Supported daily operations including inventory organization, restocking, and transactions.  
+- Worked closely with team members to maintain smooth store operations.
