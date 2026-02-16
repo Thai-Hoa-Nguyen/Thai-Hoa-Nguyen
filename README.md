@@ -4,7 +4,6 @@ Full Stack Developer and Software Developer Co op
 
 Toronto, Ontario, Canada  
 LinkedIn: https://www.linkedin.com/in/thai-nguyen-080906359/  
-GitHub: https://github.com/Thai-Hoa-Nguyen
 
 ## About Me
 Computer Programming and Analysis student at Seneca Polytechnic with hands on experience in full stack development and QA automation in a Government of Ontario environment. I focus on building reliable systems, improving test coverage, and writing clean code under real world constraints.
