@@ -9,9 +9,10 @@ LinkedIn: https://www.linkedin.com/in/thai-nguyen-080906359/
 Computer Programming and Analysis student at Seneca Polytechnic with hands on experience in full stack development and QA automation in a Government of Ontario environment. I focus on building reliable systems, improving test coverage, and writing clean code under real world constraints.
 
 ## Hackathon Experience
-- OPS Be a Data Hero Hackathon hosted by GovTechON – Won 2nd place in the data design category  
-- OPS Be a Data Hero Hackathon hosted by GovTechON – Outstanding Excellence performance award  
-- Participated in CRT Hack DEL 2.0 in 2026 – Project LockIntern
+- OPS Be a Data Hero Hackathon hosted by Government of Ontario | Project Child Mathcing Module | Won 2nd place in the data design category  
+- OPS Be a Data Hero Hackathon hosted by Government of Ontario | Project Child Mathcing Module | Outstanding Excellence performance award
+- GenAI Genesis 2026 | Largest AI Hackathon in Canada | University of Toronto | Project NexTrip 
+- CRT Hack DEL 2.0 | Largest Hackathon at York University | Project LockIntern
 
 ## Professional Experience
 ### Software Developer and Automation QA Engineer Co op  
