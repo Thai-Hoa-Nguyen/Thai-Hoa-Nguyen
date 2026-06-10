@@ -8,7 +8,7 @@ Bachelor of Technology – Software Development Student
 
 <br/>
 
-`Python` `Davinci` `Blender` `Fl Studido`
+`Python` `Davinci` `Blender` `Fl Studio`
 
 <br/>
 
