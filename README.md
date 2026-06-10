@@ -2,7 +2,7 @@
 
 <br/>
 
-Bachelor of Technology – Software Development Student
+Bachelor of Technology – Software Development
 
 <br/>
 
